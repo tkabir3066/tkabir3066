@@ -1,3 +1,4 @@
+![logo](https://github.com/tkabir3066/tkabir3066/blob/main/github-banner.gif)
 <h1 align="center">Hi 👋, I'm Tutul Kabir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
