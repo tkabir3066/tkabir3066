@@ -1,4 +1,6 @@
-![logo](https://github.com/tkabir3066/tkabir3066/blob/main/github-banner.gif)
+<!-- ![logo](https://github.com/tkabir3066/tkabir3066/blob/main/github-banner.gif) -->
+
+<p align="center"><img src="https://github.com/tkabir3066/tkabir3066/blob/main/github-banner.gif" /></p>
 <h1 align="center">Hi 👋, I'm Tutul Kabir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -23,8 +25,23 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <p align="center"><img src="https://api.daily.dev/devcards/a9d6953027f44a23a2bc576bd76e169d.png?r=166" width="200" alt="Tutul Kabir's Dev Card"/></p> | [![tkabir3066-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21059186)](https://stackoverflow.com/users/21059186/tutul-kabir) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkabir3066&show_icons=true&locale=en&layout=compact" alt="tkabir3066" /></p>
+<br />
+<br />
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkabir3066&show_icons=true&locale=en&layout=compact" alt="tkabir3066" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkabir3066&show_icons=true&locale=en" alt="tkabir3066" /></p>
+<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=tkabir3066&show_icons=true&locale=en" alt="tkabir3066" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkabir3066&" alt="tkabir3066" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkabir3066&" alt="tkabir3066" /></p> -->
+
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="tkabir3066 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=tkabir3066&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="tkabir3066 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkabir3066&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tkabir3066&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
