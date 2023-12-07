@@ -17,7 +17,7 @@
 
 |                                                                 Daily.dev                                                                  |                                                                       StackOverflow                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p align="center"><a href="https://app.daily.dev/tkabir3066"><img src="https://api.daily.dev/devcards/a9d6953027f44a23a2bc576bd76e169d.png?r=s9l" width="400" alt="Tutul Kabir's Dev Card"/></a></p> | [![tkabir3066-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21059186)](https://stackoverflow.com/users/21059186/tutul-kabir) |
+| <p align="center"><a href="https://app.daily.dev/tkabir3066"><img src="https://api.daily.dev/devcards/a9d6953027f44a23a2bc576bd76e169d.png?r=s9l" width="300" alt="Tutul Kabir's Dev Card"/></a></p> | [![tkabir3066-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21059186)](https://stackoverflow.com/users/21059186/tutul-kabir) |
 
 <br />
 - 💬 Ask me about **react.js**
